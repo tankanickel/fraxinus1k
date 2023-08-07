@@ -1,5 +1,4 @@
-# fraxinus1k
-Fraxinus 1K Mod Version
+# Custom Fraxinus 1k
 
 This slicer and printer configurations are for a Kingroon KP3S printer, that has been modded into a Fraxinus 1k with some mods here and there.
 
