@@ -1,0 +1,60 @@
+{
+    "deretraction_speed": [
+        "80"
+    ],
+    "from": "User",
+    "inherits": "Voron 0.1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_x": [
+        "12000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "12000",
+        "20000"
+    ],
+    "machine_max_speed_e": [
+        "60",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "125",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "125",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "13",
+        "12"
+    ],
+    "machine_start_gcode": "START_PRINT NOZZLE_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+    "name": "Fraxinus 0.4 nozzle",
+    "print_host": "http://192.168.178.187/",
+    "printable_area": [
+        "0x0",
+        "180x0",
+        "180x180",
+        "0x180"
+    ],
+    "printable_height": "180",
+    "printer_settings_id": "Fraxinus 0.4 nozzle",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "retraction_length": [
+        "0.7"
+    ],
+    "retraction_speed": [
+        "80"
+    ],
+    "version": "1.9.0.2",
+    "wipe": [
+        "0"
+    ],
+    "z_hop": [
+        "0.2"
+    ]
+}
